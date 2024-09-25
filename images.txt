@@ -1,1 +1,2 @@
-traefik/whoami:v1.10
+docker.io/kubesphere/whizard-monitoring-gateway:v0.10.0
+docker.io/thanosio/thanos:v0.34.1
