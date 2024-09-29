@@ -2,5 +2,6 @@
 #docker.io/thanosio/thanos:v0.34.1
 #docker.io/envoyproxy/envoy:v1.20.2
 #nginx:latest
-gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
-apache/skywalking-swck:v0.9.0
+#gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
+#apache/skywalking-swck:v0.9.0
+apache/skywalking-java-agent:8.16.0-java8
