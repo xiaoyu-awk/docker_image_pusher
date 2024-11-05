@@ -6,3 +6,8 @@
 #apache/skywalking-swck:v0.9.0
 apache/skywalking-java-agent:8.16.0-java8
 ghcr.io/apache/skywalking-swck-spring-demo:v0.0.1
+apache/apisix:3.11.0-debian
+bitnami/etcd:3.5.11
+nginx:1.19.0-alpine
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
