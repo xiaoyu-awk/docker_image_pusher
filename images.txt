@@ -6,3 +6,4 @@ prom/prometheus:v2.25.0
 grafana/grafana:7.3.7
 apache/shenyu-admin:2.4.0
 apache/skywalking-java-agent:9.2.0-alpine
+lutinglt/superset-zh:latest
