@@ -1,1 +1,1 @@
-victoriametrics/victoria-metrics:v1.79.12
+alpine:3.16
