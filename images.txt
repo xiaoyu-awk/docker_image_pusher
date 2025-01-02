@@ -1,2 +1,5 @@
-lutinglt/superset-zh:latest
-mysql:5.7
+mysql:8
+redis:6.2
+prom/prometheus
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
