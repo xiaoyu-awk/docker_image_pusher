@@ -1,2 +1,2 @@
-openresty/openresty:1.25.3.1-alpine-fat
-openresty/openresty:1.25.3.1-alpine
+redis:5.0.0
+rainbowhhy/alertmanager-webhook:v1.0
