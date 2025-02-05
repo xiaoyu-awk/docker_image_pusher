@@ -1,2 +1,1 @@
-redis:5.0.0
-rainbowhhy/alertmanager-webhook:v1.0
+ghcr.io/open-webui/open-webui:main
