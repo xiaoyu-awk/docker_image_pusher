@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:cuda
+grafana/grafana:9.1.5
