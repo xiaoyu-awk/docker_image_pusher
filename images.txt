@@ -1,4 +1,1 @@
-docker.cloudimages.asia/aidemoonio/palace:latest
-docker.cloudimages.asia/aidemoonio/houyi:latest
-docker.cloudimages.asia/aidemoonio/rabbit:latest
-docker.cloudimages.asia/aidemoonio/moon-frontend:latest
+aidemoonio/palace:latest
