@@ -1,1 +1,4 @@
 aidemoonio/palace:latest
+aidemoonio/houyi:latest
+aidemoonio/rabbit:latest
+aidemoonio/moon-frontend:latest
