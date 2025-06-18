@@ -1,1 +1,2 @@
-eipwork/kuboard:v3
+quay.io/argoproj/argocd:v3.0.6
+redis:7.2.7-alpine
