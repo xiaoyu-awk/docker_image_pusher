@@ -1,1 +1,4 @@
-ghcr.io/zxh326/kite:latest
+apache/skywalking-oap-server:8.2.0-es7
+apache/skywalking-ui:8.2.0
+selenium/hub:4.0.0-alpha-7-prerelease-20201009
+selenium/node-chrome:4.0.0-alpha-7-prerelease-20201009
