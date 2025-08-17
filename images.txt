@@ -1,1 +1,1 @@
-liteops/liteops
+liteops/liteops:v2.0
