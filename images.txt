@@ -1,2 +1,1 @@
-liteops/liteops:v2.0
-mysql:8
+tikazyq/crawlab:latest
