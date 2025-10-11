@@ -1,1 +1,3 @@
 tikazyq/crawlab:latest
+crawlabteam/crawlab:latest
+mongo:latest
