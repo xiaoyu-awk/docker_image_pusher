@@ -1,1 +1,2 @@
 clickhouse/clickhouse-server:25.11.5
+clickhouse/clickhouse-server:25.11.5.8
