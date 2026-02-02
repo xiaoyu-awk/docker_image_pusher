@@ -1,2 +1,5 @@
-clickhouse/clickhouse-server:25.11.5
-clickhouse/clickhouse-server:25.11.5.8
+langgenius/dify-api:1.11.4
+nginx:latest
+langgenius/dify-plugin-daemon:0.5.2-local
+ubuntu/squid:latest
+langgenius/dify-web:1.11.4
