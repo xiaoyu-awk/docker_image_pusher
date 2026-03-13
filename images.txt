@@ -1,5 +1,1 @@
-langgenius/dify-api:1.11.4
-nginx:latest
-langgenius/dify-plugin-daemon:0.5.2-local
-ubuntu/squid:latest
-langgenius/dify-web:1.11.4
+demisto/python3:3.12.12.7090913
