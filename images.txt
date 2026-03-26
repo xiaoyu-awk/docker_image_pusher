@@ -1,2 +1,1 @@
-diouxx/glpi:latest
-mariadb:11.4
+dshanley/glpi:11.0.6
