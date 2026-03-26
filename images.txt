@@ -1,1 +1,1 @@
-dshanley/glpi:11.0.6
+glpi/glpi:latest
