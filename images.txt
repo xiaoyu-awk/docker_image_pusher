@@ -1,1 +1,2 @@
-demisto/python3:3.12.12.7090913
+diouxx/glpi:latest
+mariadb:11.4
