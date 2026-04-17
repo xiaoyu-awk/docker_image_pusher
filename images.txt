@@ -1,1 +1,1 @@
-node:22-slim
+openresty:1.25.3.1-0-bookworm
