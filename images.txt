@@ -1,1 +1,1 @@
-openresty:1.25.3.1-0-bookworm
+openresty/openresty:1.25.3.1-0-bookworm
