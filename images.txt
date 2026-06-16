@@ -1,2 +1,1 @@
-alpine/openclaw:2026.6.5-browser
-alpine/openclaw:2026.6.5-slim
+gitlab/gitlab-ce:19.0.2-ce.0
