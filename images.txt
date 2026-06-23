@@ -1,2 +1,1 @@
-docker.umami.is/umami-software/umami:latest
-postgres:15-alpine
+opengrok/docker:1.14.15
