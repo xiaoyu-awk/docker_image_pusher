@@ -1,1 +1,13 @@
-python:3.11-slim
+supabase/studio:2025.11.10-sha-5291fe3
+kong:2.8.1
+supabase/gotrue:v2.182.1
+postgrest/postgrest:v13.0.7
+supabase/realtime:v2.63.0
+supabase/storage-api:v1.29.0
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.93.1
+supabase/edge-runtime:v1.69.23
+supabase/logflare:1.22.6
+supabase/postgres:15.8.1.085
+timberio/vector:0.28.1-alpine
+supabase/supavisor:2.7.4
