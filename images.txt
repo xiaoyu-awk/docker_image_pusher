@@ -1,2 +1,1 @@
-crawlabteam/crawlab:latest
-mongo:4.2
+muccg/devpi:latest
