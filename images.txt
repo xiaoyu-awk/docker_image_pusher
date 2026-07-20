@@ -1,1 +1,2 @@
-muccg/devpi:latest
+mysql:8.0
+redis:7
