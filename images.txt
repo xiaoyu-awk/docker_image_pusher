@@ -1,1 +1,1 @@
-sonatype/nexus3:3.94.0
+python:3.12
