@@ -1,1 +1,1 @@
-sonatype/nexus3:3.93.2
+sonatype/nexus3:3.89.1
